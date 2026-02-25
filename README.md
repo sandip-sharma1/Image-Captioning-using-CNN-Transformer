@@ -7,7 +7,7 @@ and a Transformer architecture for sequence modeling.
 
 The repository contains complete training, evaluation, inference, and UI modules.
 
-
+Dataset used-->Flickr8k
 ------------------------------------------------------------
 1. Project Architecture
 ------------------------------------------------------------
